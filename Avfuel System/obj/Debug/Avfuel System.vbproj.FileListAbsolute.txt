@@ -1,0 +1,14 @@
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\bin\Debug\Avfuel System.exe.config
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\bin\Debug\Avfuel System.exe
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\bin\Debug\Avfuel System.pdb
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\bin\Debug\Avfuel System.xml
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.vbprojResolveAssemblyReference.cache
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.Resources.resources
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.vbproj.GenerateResource.Cache
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.exe
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.xml
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.pdb
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.welcomeScreen.resources
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.fuelRequest.resources
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.orderTerminal.resources
+c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.dispatchTerminal.resources
