@@ -12,3 +12,8 @@ c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\
 c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.fuelRequest.resources
 c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.orderTerminal.resources
 c:\users\sean\documents\visual studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.dispatchTerminal.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.fuelOrderForm.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel System.vbproj.ResolveComReference.cache
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.orderApproval.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Avfuel_System.googleMaps.resources
+C:\Users\Sean\Documents\Visual Studio 2017\Projects\Avfuel System\Avfuel System\obj\Debug\Interop.SHDocVw.dll
